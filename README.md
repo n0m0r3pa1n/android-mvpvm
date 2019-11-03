@@ -21,4 +21,8 @@ object. You can decide on it what to do.
 - RecyclerView BindingAdapter that works with DataBinding and accepts ViewModel data and automatically updates the data
 - Adapter class which works with DataBinding and exposes a uiEvents variable which is responsible for emitting item clicks
 
+## More
+
+You can read more in this article [HERE](http://nmp90.com/2019/11/android-app-architecture-with-koin-mvpvm/).
+
 
